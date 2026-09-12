@@ -301,8 +301,7 @@ Worked with the internal software team on database management and reporting for 
 
 **Backend Developer in Training** · Database Development & .NET Framework
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Turning+manual+workflows+into+automated+ones;Focused+on+clean%2C+consistent+data" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Designing+clean%2C+scalable+databases;Turning+manual+workflows+into+automated+ones;Focused+on+clean%2C+consistent+data" alt="Typing SVG" />
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammad.muhib.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-muhib-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -398,6 +397,8 @@ Worked with the internal software team on database management and reporting for 
 
 **Outcome:** Delivered structured, reliable reporting on energy usage patterns.
 
+**Repository:** [github.com/MuhammadMuhib-dev/Energy-Usage-Monitoring-Reporting-System](https://github.com/MuhammadMuhib-dev/Energy-Usage-Monitoring-Reporting-System)
+
 **Stack:** `.NET Framework` `C#` `SQL`
 
 </td>
@@ -437,3 +438,13 @@ Worked with the internal software team on database management and reporting for 
 📫 muhammad.muhib.dev@gmail.com
 
 </div>
+
+
+
+
+
+
+
+
+
+

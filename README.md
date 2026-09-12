@@ -327,7 +327,7 @@ I care about writing backend logic that's predictable, data that's consistent, a
 <td width="100%">
 
 ### Software Intern — Chenab Limited
-**Industry:** Textile Manufacturing &nbsp;·&nbsp; **Duration:** Continue
+**Industry:** Textile Manufacturing &nbsp;·&nbsp; 
 
 Worked with the internal software team on database management and reporting for a textile mill's operations.
 

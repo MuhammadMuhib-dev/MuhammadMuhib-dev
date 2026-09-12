@@ -148,6 +148,9 @@ A system built to track and report energy consumption data, delivering structure
 
 If you're working on database-driven or .NET backend projects, feel free to reach out!
 -->
+
+
+<!--
 <div align="center">
 
 # Muhammad Muhib
@@ -287,5 +290,147 @@ Worked with the internal software team on database management and reporting for 
 📫 muhammad.muhib.dev@gmail.com
 
 </div>
+
+</div> -->
+
+<div align="center">
+
+# Muhammad Muhib
+
+**Backend Developer in Training** · Database Development & .NET Framework
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Turning+manual+workflows+into+automated+ones;Focused+on+clean%2C+consistent+data" alt="Typing SVG" />
+
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammad.muhib.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/muhammadmuhib-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+</div>
+
+<br>
+
+## Profile
+
+I'm a Computer Science student in my 5th semester at **NUML (National University of Modern Languages)**, focused on becoming a backend developer with a strong grip on databases and the .NET Framework. My work so far centers on one theme: taking manual, error-prone processes and turning them into automated, reliable systems — whether that's migrating spreadsheet data into a proper database or structuring how information flows through an application.
+
+I care about writing backend logic that's predictable, data that's consistent, and systems that don't need babysitting once they're deployed.
+
+<br>
+
+## Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### Software Intern — Chenab Limited
+**Industry:** Textile Manufacturing &nbsp;·&nbsp; **Duration:** 3 Months
+
+Worked with the internal software team on database management and reporting for a textile mill's operations.
+
+- Managed and maintained the company's database systems
+- Built internal projects using the database to support business operations
+- Developed a **reporting desktop application** to streamline data reporting for the team
+
+**Stack:** `SQL` `.NET Framework` `C#`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Education
+
+| | |
+|---|---|
+| **Institution** | National University of Modern Languages (NUML) |
+| **Program** | Computer Science |
+| **Current Standing** | 5th Semester |
+| **Areas of Focus** | Database Development, .NET Framework, Backend Systems |
+
+<br>
+
+## Core Competencies
+
+| Category | Skills | Applied In |
+|---|---|---|
+| **Languages** | C#, SQL | Desktop applications, data migration logic |
+| **Framework** | .NET Framework | Building and structuring backend applications |
+| **Databases** | SQL Server, MySQL, PostgreSQL | Schema design, queries, data consistency |
+| **Tools** | Visual Studio, Git, GitHub | Development workflow & version control |
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="100%">
+
+### Excel-to-SQL Data Processing Application
+**Type:** Desktop Application &nbsp;·&nbsp; **Status:** Completed
+
+**Challenge:** Manual data entry from Excel workbooks into SQL databases was slow and error-prone, with no guarantee of consistency between records.
+
+**Approach:** Built a .NET Framework desktop application that reads Excel workbook data directly and automates its migration into a SQL database, replacing the manual process end-to-end.
+
+**Outcome:** Eliminated manual entry, enforced consistent data structure, and created a dependable backend foundation for further data operations.
+
+**Stack:** `.NET Framework` `C#` `SQL Server`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### Energy Usage Monitoring & Reporting System
+**Type:** Monitoring & Reporting System &nbsp;·&nbsp; **Status:** Completed
+
+**Challenge:** Raw energy consumption data needed to be tracked and turned into readable, structured reports.
+
+**Approach:** Designed a system with an organized backend to capture usage data and generate clear reports from it.
+
+**Outcome:** Delivered structured, reliable reporting on energy usage patterns.
+
+**Stack:** `.NET Framework` `C#` `SQL`
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center">
+
+**Next project in progress** — this section is updated as new work is completed.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## How I Work
+
+- I default to understanding the data first, then the logic — most backend bugs trace back to inconsistent data
+- I prefer automating a repetitive task once over doing it manually a hundred times
+- I'm early in my career and treat every project as a chance to close a specific skill gap
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadmuhib-dev&show_icons=true&theme=default&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuhib-dev&layout=compact&theme=default&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+
+**Open to internships and backend/database-focused opportunities.**
+
+📫 muhammad.muhib.dev@gmail.com
 
 </div>

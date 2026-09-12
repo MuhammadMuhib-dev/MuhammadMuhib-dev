@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=220&section=header&text=Muhammad%20Muhib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Backend%20Developer%20%7C%20.NET%20%26%20Database%20Development&descAlignY=58&descSize=18" width="100%"/>
+# Muhammad Muhib
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=5th+Semester+Computer+Science+Student;Backend+Developer+in+Progress;.NET+Framework+%7C+SQL+%7C+Databases;Turning+Messy+Data+Into+Clean+Systems" alt="Typing SVG" />
 
@@ -140,10 +140,6 @@ A system built to track and report energy consumption data, delivering structure
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadmuhib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuhib-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmuhib-dev&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadmuhib-dev&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
@@ -153,7 +149,5 @@ A system built to track and report energy consumption data, delivering structure
 ### 💬 Let's Connect & Collaborate
 
 If you're working on database-driven or .NET backend projects, feel free to reach out!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=100&section=footer" width="100%"/>
 
 </div>
